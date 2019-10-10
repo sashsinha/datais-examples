@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/datais-examples/static/css/main.5ca8efef.chunk.css",
-    "main.js": "/datais-examples/static/js/main.76accc3a.chunk.js",
-    "main.js.map": "/datais-examples/static/js/main.76accc3a.chunk.js.map",
+    "main.js": "/datais-examples/static/js/main.abe8b188.chunk.js",
+    "main.js.map": "/datais-examples/static/js/main.abe8b188.chunk.js.map",
     "runtime-main.js": "/datais-examples/static/js/runtime-main.95d4cd1c.js",
     "runtime-main.js.map": "/datais-examples/static/js/runtime-main.95d4cd1c.js.map",
     "static/js/2.75530400.chunk.js": "/datais-examples/static/js/2.75530400.chunk.js",
     "static/js/2.75530400.chunk.js.map": "/datais-examples/static/js/2.75530400.chunk.js.map",
     "index.html": "/datais-examples/index.html",
-    "precache-manifest.bf7703e13975059b23e779dc2ed6b2ee.js": "/datais-examples/precache-manifest.bf7703e13975059b23e779dc2ed6b2ee.js",
+    "precache-manifest.c0af91a5cc89c4befdc0c77c164e7ede.js": "/datais-examples/precache-manifest.c0af91a5cc89c4befdc0c77c164e7ede.js",
     "service-worker.js": "/datais-examples/service-worker.js",
     "static/css/main.5ca8efef.chunk.css.map": "/datais-examples/static/css/main.5ca8efef.chunk.css.map",
     "static/media/logo.svg": "/datais-examples/static/media/logo.288573ce.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.95d4cd1c.js",
     "static/js/2.75530400.chunk.js",
     "static/css/main.5ca8efef.chunk.css",
-    "static/js/main.76accc3a.chunk.js"
+    "static/js/main.abe8b188.chunk.js"
   ]
 }
