@@ -91,12 +91,12 @@ def create_openseadragon_html_file(base_file_name, dzi_file_name):
 
 <body>
     <div id="openseadragon" style="width: 500px; height: 500px;"></div>
-    <script src="/visualizations/openseadragon.min.js"></script>
+    <script src="openseadragon.min.js"></script>
     <script id="openseadragonScript" type="text/javascript">
         var viewer = OpenSeadragon({{
             id: "openseadragon",
-            prefixUrl: "/visualizations/deep_zoom_controls/",
-            tileSources: "/visualizations/{dzi_file_name}",
+            prefixUrl: "https://raw.githubusercontent.com/shash678/datais-examples/gh-pages/visualizations/deep_zoom_controls/",
+            tileSources: "https://raw.githubusercontent.com/shash678/datais-examples/gh-pages/visualizations/{dzi_file_name}",
             showFullPageControl: true
         }});
     </script>

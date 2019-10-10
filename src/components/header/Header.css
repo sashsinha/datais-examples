@@ -29,3 +29,7 @@
   color: #d07c2c;
   display: inline-block;
 }
+
+.code {
+    font-size: calc(11px + 1vmin);
+}

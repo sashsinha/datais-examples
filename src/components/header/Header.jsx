@@ -21,6 +21,9 @@ class Header extends Component {
                     Using <a href="https://openseadragon.github.io/" className="link"> openseadragon</a> to remix some top
                     dataisbeautiful visualizations to enable pan and zoom on the original vector images.
                 </div>
+                <div className="description">
+                    How it works: <code className="code"><a style={{ textDecoration: 'None' }} href="https://github.com/shash678/datais-examples/blob/master/python_svg_to_tilemap/svg_to_tilemap.py" className="link"> <span role="img" aria-label="document">📄</span>svg_to_tilemap.py</a></code>
+                </div>
             </div>
         );
     }
