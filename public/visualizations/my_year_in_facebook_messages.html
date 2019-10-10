@@ -1,0 +1,20 @@
+<html>
+
+<head>
+    <title>My Year In Facebook Messages</title>
+</head>
+
+<body>
+    <div id="openseadragon" style="width: 500px; height: 500px;"></div>
+    <script src="/visualizations/openseadragon.min.js"></script>
+    <script id="openseadragonScript" type="text/javascript">
+        var viewer = OpenSeadragon({
+            id: "openseadragon",
+            prefixUrl: "/visualizations/deep_zoom_controls/",
+            tileSources: "/visualizations/my_year_in_facebook_messages_10x.dzi",
+            showFullPageControl: true
+        });
+    </script>
+</body>
+
+</html>
