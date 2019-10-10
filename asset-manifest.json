@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/datais-examples/static/css/main.644531b8.chunk.css",
+    "main.css": "/datais-examples/static/css/main.50b07a76.chunk.css",
     "main.js": "/datais-examples/static/js/main.104ae68e.chunk.js",
     "main.js.map": "/datais-examples/static/js/main.104ae68e.chunk.js.map",
     "runtime-main.js": "/datais-examples/static/js/runtime-main.95d4cd1c.js",
@@ -8,15 +8,15 @@
     "static/js/2.e238572c.chunk.js": "/datais-examples/static/js/2.e238572c.chunk.js",
     "static/js/2.e238572c.chunk.js.map": "/datais-examples/static/js/2.e238572c.chunk.js.map",
     "index.html": "/datais-examples/index.html",
-    "precache-manifest.15cd776502d3acd23838c56caca5be9f.js": "/datais-examples/precache-manifest.15cd776502d3acd23838c56caca5be9f.js",
+    "precache-manifest.043dd6ecec7a7e0dda9c734c398469da.js": "/datais-examples/precache-manifest.043dd6ecec7a7e0dda9c734c398469da.js",
     "service-worker.js": "/datais-examples/service-worker.js",
-    "static/css/main.644531b8.chunk.css.map": "/datais-examples/static/css/main.644531b8.chunk.css.map",
+    "static/css/main.50b07a76.chunk.css.map": "/datais-examples/static/css/main.50b07a76.chunk.css.map",
     "static/media/logo.svg": "/datais-examples/static/media/logo.288573ce.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.95d4cd1c.js",
     "static/js/2.e238572c.chunk.js",
-    "static/css/main.644531b8.chunk.css",
+    "static/css/main.50b07a76.chunk.css",
     "static/js/main.104ae68e.chunk.js"
   ]
 }
