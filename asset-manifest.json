@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/datais-examples/static/css/main.5ca8efef.chunk.css",
+    "main.js": "/datais-examples/static/js/main.79d08157.chunk.js",
+    "main.js.map": "/datais-examples/static/js/main.79d08157.chunk.js.map",
+    "runtime-main.js": "/datais-examples/static/js/runtime-main.95d4cd1c.js",
+    "runtime-main.js.map": "/datais-examples/static/js/runtime-main.95d4cd1c.js.map",
+    "static/js/2.75530400.chunk.js": "/datais-examples/static/js/2.75530400.chunk.js",
+    "static/js/2.75530400.chunk.js.map": "/datais-examples/static/js/2.75530400.chunk.js.map",
+    "index.html": "/datais-examples/index.html",
+    "precache-manifest.a62992aac177395c3b666fbd5ed5c30e.js": "/datais-examples/precache-manifest.a62992aac177395c3b666fbd5ed5c30e.js",
+    "service-worker.js": "/datais-examples/service-worker.js",
+    "static/css/main.5ca8efef.chunk.css.map": "/datais-examples/static/css/main.5ca8efef.chunk.css.map",
+    "static/media/logo.svg": "/datais-examples/static/media/logo.288573ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95d4cd1c.js",
+    "static/js/2.75530400.chunk.js",
+    "static/css/main.5ca8efef.chunk.css",
+    "static/js/main.79d08157.chunk.js"
+  ]
+}
